@@ -5,7 +5,7 @@ int main(){
     cin>>n;
     for (int i=1 ; i<=n;i++){
         cout<<n;
-        //comment
+        //commentijm
     }
     return 0;
 }
